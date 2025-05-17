@@ -17,4 +17,4 @@ tqdm
 dash
 jupyter-dash
 dash-bio
-microberx
+microberxglypy

@@ -23,6 +23,7 @@ from .MetaboliteAnalyzer import *
 from .MetaboliteVisualizer import *
 
 from .OmicsIntegrator import *
+from .glyco_pipeline import *
 
 __version__ = get_versions()["version"]
 

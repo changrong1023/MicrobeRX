@@ -142,6 +142,11 @@ This tool is under GPL-3.0 license, see the LICENSE file for details.
 - This release includes the functionalities to generate reaction rules
 - This release includes the functionalities to predict, analyze and visualize metabolites.
 - This release includes the functionalities to find microorganism and enzymes.
+- This release includes an experimental pipeline for glycan metabolite
+  prediction, ``glyco_pipeline``, covering glycan input parsing,
+  reaction rule generation, multi-step prediction with scoring,
+  enzyme and pathway annotation and a simple CLI ``glyco_pipeline_cli.py``
+  that outputs a Graphviz representation of the reaction graph.
 
 ## Disclaimer 
 
